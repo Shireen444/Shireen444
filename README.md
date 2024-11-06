@@ -1,12 +1,3 @@
-- 👋 Hi, I’m Shireen david
+- Currently sharpening my data science acumen at upGrad.com's BootCamp, I am a Master of Science in Mathematics from Christ University with a solid foundation in analytical thinking. As a Technical Support Associate at Amazon, my daily mission involves addressing the technical concerns of a global customer base, leveraging my strong communication skills to deliver exceptional service.
 
-- 🌱 I’m currently learning Data Science course at Upgrad
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Shireen444/Shireen444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Our team at Amazon thrives on collaboration, and I contribute to this dynamic by streamlining customer support processes and educating users on policy compliance. These initiatives have been instrumental in maintaining high satisfaction rates and fostering a culture of integrity. My goal is to integrate my growing data science expertise with my technical support experience, bringing valuable insights and innovative solutions to our operations.
